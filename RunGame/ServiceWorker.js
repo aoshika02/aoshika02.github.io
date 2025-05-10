@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-RunGame-0.1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js.br",
-    "Build/Build.data.br",
-    "Build/Build.wasm.br",
+    "Build/RunGame.loader.js",
+    "Build/RunGame.framework.js",
+    "Build/RunGame.data",
+    "Build/RunGame.wasm",
     "TemplateData/style.css"
 
 ];
