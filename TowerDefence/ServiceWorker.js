@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-TowerDefense-0.1.0";
 const contentToCache = [
-    "Build/Bulid.loader.js",
-    "Build/Bulid.framework.js.unityweb",
-    "Build/Bulid.data.unityweb",
-    "Build/Bulid.wasm.unityweb",
+    "Build/TowerDefence.loader.js",
+    "Build/TowerDefence.framework.js.unityweb",
+    "Build/TowerDefence.data.unityweb",
+    "Build/TowerDefence.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
