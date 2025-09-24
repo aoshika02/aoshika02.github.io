@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Quiz-0.1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js.unityweb",
-    "Build/Build.data.unityweb",
-    "Build/Build.wasm.unityweb",
+    "Build/Quiz.loader.js",
+    "Build/Quiz.framework.js.unityweb",
+    "Build/Quiz.data.unityweb",
+    "Build/Quiz.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
